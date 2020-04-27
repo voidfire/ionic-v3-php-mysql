@@ -1,5 +1,3 @@
-First clone this repository 
-
 Create a database on your server's mysql 
 
 I named mine ionicdb with a table users 
@@ -17,11 +15,9 @@ You will need to change the urls inside ionic-app to your own domain names in or
 Then you can do ionic serve from ionic-app folder and test the functionality 
 or build your android/ios apps according to ionics documentation
 
-This is a fixed version of a tutorial I found on the internet that proved to be super annoying the code was posted with many issues and wrong formatting and and oh god
-
-I'm sure somebody is thankful I took care of it! :) 
+This is an edited version of a tutorial I found on the internet that proved to be super annoying the code was posted with many issues and wrong formatting and and oh god
 
 PS: 
 You can find the said tutorial here https://ionicdon.com/setup-login-register-ionic3-using-php-mysql but 
-I wouldn't suggesting following that to the letter as you will encounter from typos
-to wrong/buggy php code but still I feel I have to link to it since I didn't write the whole code from scratch.
+I wouldn't suggest following that to the letter as you will encounter many errors from typos
+to wrong/buggy php code.
